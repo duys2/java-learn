@@ -1,2 +1,1 @@
-# 이것은 리드미 파일
-# Test
+# Java를 공부하는 Repository
