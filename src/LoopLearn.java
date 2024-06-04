@@ -80,7 +80,7 @@ public class LoopLearn {
 		// }
 		// System.out.println(num + "!은 " + factorial + "이다."); // 15!은 1307674368000이다.
 
-		// // 피보나치
+		// // 피보나치 수열
 		// int[] fibonacci = new int[10];
 		// fibonacci[0] = 1;
 		// fibonacci[1] = 1;
@@ -92,6 +92,12 @@ public class LoopLearn {
 		// for (int i = 0; i < fibonacci.length; i++) {
 		// 	System.out.print(fibonacci[i] + " "); // 1 1 2 3 5 8 13 21 34 55
 		// }
+
+		// // 피보나치 수열 다른 방법
+		// int[] arr = new int[100];
+		// // Arrays.parallelSetAll(arr, i -> (i < 2) ? 1 : arr[i - 1] + arr[i - 2]);
+		// Arrays.setAll(arr, i -> (i < 2) ? 1 : arr[i - 1] + arr[i - 2]); // 위가 아닌 이게 맞다
+		// // parallelSetAll()는 병렬로 처리하기 때문에 setAll()을 쓴다.
 
 		// // 4. 중첩 반복문
 		// // 구구단: 1단부터 9단까지 출력(중첩 반복문)
