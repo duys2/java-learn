@@ -37,7 +37,7 @@ public class OOPLearn {
 		}
 		System.out.println(); // 가독성을 위한 줄바꿈
 		System.out.print("종료! ");
-		System.out.println((player.getHp() <= 0) ? "늑대" : "플레이어" + "의 승리!");
+		System.out.println(((player.getHp() <= 0) ? "늑대" : "플레이어") + "의 승리!");
 
 		sc.close();
 	}
