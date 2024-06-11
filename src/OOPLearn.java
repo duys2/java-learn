@@ -44,7 +44,7 @@ public class OOPLearn {
 }
 
 class Player {
-	/* ---------------- 필드 (정보 은닉을 위해 private로 선언) ---------------- */
+	/* ---------------- 필드 (정보 은닉을 위해 private으로 선언) ---------------- */
 	private String name;
 	private int hp;
 	private int speed;
@@ -87,7 +87,7 @@ class Player {
 }
 
 class Wolf {
-	/* ---------------- 필드 (정보 은닉을 위해 private로 선언) ---------------- */
+	/* ---------------- 필드 (정보 은닉을 위해 private으로 선언) ---------------- */
 	private String name;
 	private int hp;
 	private int speed;
