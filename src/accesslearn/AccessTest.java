@@ -1,4 +1,4 @@
-package access;
+package accesslearn;
 
 public class AccessTest {
 	int num = 22;

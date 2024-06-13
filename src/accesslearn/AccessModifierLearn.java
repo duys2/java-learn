@@ -1,4 +1,4 @@
-package access;
+package accesslearn;
 
 public class AccessModifierLearn {
 	public static void main(String[] args) {
