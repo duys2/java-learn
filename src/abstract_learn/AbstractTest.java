@@ -1,4 +1,4 @@
-package abstractlearn;
+package abstract_learn;
 
 public class AbstractTest {
 	public static void main(String[] args) {

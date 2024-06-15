@@ -1,4 +1,4 @@
-package abstractlearn;
+package abstract_learn;
 
 public class Tiger extends Animal {
 	// 추상 메서드 구현

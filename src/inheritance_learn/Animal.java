@@ -1,4 +1,4 @@
-package inheritancelearn;
+package inheritance_learn;
 
 public class Animal {
 	protected int weight = 100; // 부모 자식만 사용하려면 protected

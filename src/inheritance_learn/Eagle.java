@@ -1,4 +1,4 @@
-package inheritancelearn;
+package inheritance_learn;
 
 public class Eagle extends Animal {
 	public Eagle(int weight) {

@@ -1,4 +1,4 @@
-package inheritancelearn;
+package inheritance_learn;
 
 public class InheritanceTest {
 	public static void main(String[] args) {

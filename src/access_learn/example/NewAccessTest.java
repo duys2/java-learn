@@ -1,6 +1,6 @@
-package accesslearn.example;
+package access_learn.example;
 
-import accesslearn.AccessTest;
+import access_learn.AccessTest;
 
 public class NewAccessTest extends AccessTest {
 	public static void main(String[] args) {
