@@ -24,7 +24,7 @@ public class Quiz1 {
 			System.out.println(e.getMessage());
 		} catch (InputMismatchException e) { // 잘못된 입력 예외 처리
 			System.out.println("정확한 값을 입력헤 주세요.");
-		} finally { // 예외 유무와 관계 없어도 이직 가능
+		} finally { // 예외 유무와 관계 없이 실행
 			scanner.close();
 		}
 	}
