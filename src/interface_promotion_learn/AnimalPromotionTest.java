@@ -2,7 +2,7 @@ package interface_promotion_learn;
 
 public class AnimalPromotionTest {
 	public static void main(String[] args) {
-		/* 자동타입변환 */
+		/* 자동 타입 변환 */
 		Carnivore carnivore = new Carnivore();
 
 		Tiger tiger = new Tiger();
@@ -12,10 +12,10 @@ public class AnimalPromotionTest {
 		carnivore.eat(tiger); // 호랑이가 먹이를 먹는 중입니다.
 		carnivore.eat(wolf); // 늑대가 먹이를 먹는 중입니다.
 
-		// Animal을 Tiger로 자동타입변환
+		// Animal을 Tiger로 자동 타입 변환
 		Animal firstAnimal = new Tiger();
 
-		// Animal을 Wolf로 자동타입변환
+		// Animal을 Wolf로 자동 타입 변환
 		Animal secondAnimal = new Wolf();
 
 		carnivore.eat(firstAnimal); // 호랑이가 먹이를 먹는 중입니다.
