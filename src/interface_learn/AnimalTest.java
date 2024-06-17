@@ -1,4 +1,4 @@
-package interfacelearn;
+package interface_learn;
 
 public class AnimalTest {
 	public static void main(String[] args) {

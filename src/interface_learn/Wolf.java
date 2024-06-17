@@ -1,4 +1,4 @@
-package interfacelearn;
+package interface_learn;
 
 // Wolf 클래스는 Animal 인터페이스를 구현한다.
 public class Wolf implements Animal {
