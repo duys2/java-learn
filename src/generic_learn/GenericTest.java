@@ -20,7 +20,7 @@ public class GenericTest {
 		list2.add(1);
 		list2.add("Hello World!");
 
-		// 제네릭을 사용하면 아래와 같은 타입 변환을 제거할 수 있다.
+		// 제네릭을 사용하면 아래와 같은 타입 변환을 제거할 수 있다(안 해도 된다).
 		int num = (int)list2.get(0);
 		String string = (String)list2.get(1);
 	}
