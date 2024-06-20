@@ -9,6 +9,7 @@ public class QueueLearn {
 		Queue<String> stringQueue = new LinkedList<>();
 
 		// 삽입
+		// add()는 삽입 시 큐의 용량을 IllegalStateException을 발생하고, offer()는 false를 반환한다.
 		stringQueue.add("Hello World!");
 		stringQueue.offer("Python");
 		stringQueue.offer("C");
