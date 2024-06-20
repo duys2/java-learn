@@ -1,3 +1,5 @@
+package oop_learn;
+
 public class StaticLearn {
   public static void main(String[] args) {
     MyClass.staticNum++;

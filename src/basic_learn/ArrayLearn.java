@@ -1,3 +1,5 @@
+package basic_learn;
+
 public class ArrayLearn {
 	public static void main(String[] args) {
 		// Array

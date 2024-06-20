@@ -1,3 +1,5 @@
+package basic_learn;
+
 public class ConditionalLearn {
 	public static void main(String[] args) {
 		/* 조건문(Conditional Statement) */

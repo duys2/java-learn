@@ -1,3 +1,4 @@
+package library_learn;
 // java.util 패키지의 모든 클래스 포함
 // import java.util.*; // *은 '모든'이라는 뜻
 // java.util 패키지의 Scanner 클래스만 포함

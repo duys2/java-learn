@@ -1,3 +1,5 @@
+package basic_learn;
+
 public class FinalLearn {
 	public static void main(String[] args) {
 		FinalTest finalTest = new FinalTest(25);

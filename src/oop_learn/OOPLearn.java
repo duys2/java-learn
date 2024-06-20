@@ -1,9 +1,11 @@
+package oop_learn;
+
 import java.util.Scanner;
 
 public class OOPLearn {
 	public static void main(String[] args) {
 		Player player = new Player("Steve", 250, 10, 25);
-		Wolf wolf = new Wolf("Angry Wolf", 100, 25, 45);
+		Wolf wolf = new Wolf("Angry oop_learn.Wolf", 100, 25, 45);
 
 		player.say(); // 플레이어 말하기
 		// player.attack(wolf); // 플레이어가 늑대를 공격

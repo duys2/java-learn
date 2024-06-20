@@ -1,4 +1,4 @@
-package interface_polymorphism_learn;
+package interface_learn.polymorphism_learn;
 
 public class InterfacePolyTest {
 	public static void main(String[] args) {

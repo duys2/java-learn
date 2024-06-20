@@ -1,4 +1,4 @@
-package interface_polymorphism_learn;
+package interface_learn.polymorphism_learn;
 
 public class ProfileDBRepository implements ProfileRepository {
 	@Override

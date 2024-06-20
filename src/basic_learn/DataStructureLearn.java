@@ -1,3 +1,5 @@
+package basic_learn;
+
 import java.util.ArrayList;
 
 public class DataStructureLearn {

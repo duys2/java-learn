@@ -1,4 +1,4 @@
-package interface_promotion_learn;
+package interface_learn.promotion_learn;
 
 // Tiger 클래스는 Animal 인터페이스를 구현한다.
 public class Tiger implements Animal {

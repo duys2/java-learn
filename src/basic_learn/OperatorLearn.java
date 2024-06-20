@@ -1,3 +1,5 @@
+package basic_learn;
+
 public class OperatorLearn {
 	public static void main(String[] args) {
 		/* ---------------- 단항 연산자 ---------------- */

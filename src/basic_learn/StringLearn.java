@@ -1,4 +1,4 @@
-import java.util.Locale;
+package basic_learn;
 
 public class StringLearn {
 	public static void main(String[] args) {

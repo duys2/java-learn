@@ -1,4 +1,4 @@
-package interface_polymorphism_learn;
+package interface_learn.polymorphism_learn;
 
 public class ProfileService {
 	ProfileRepository repository; // 인터페이스는 필드에서도 선언 가능

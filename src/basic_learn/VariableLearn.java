@@ -1,3 +1,5 @@
+package basic_learn;
+
 public class VariableLearn {
 	public static void main(String[] args) {
 		// 형식: {타입} 변수명 = 값;

@@ -1,4 +1,4 @@
-package interface_promotion_learn;
+package interface_learn.promotion_learn;
 
 public class AnimalPromotionTest {
 	public static void main(String[] args) {
