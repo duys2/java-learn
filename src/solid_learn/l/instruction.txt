@@ -1,0 +1,2 @@
+LSP (Liskov Substitution Principle) - 리스코프 치환 원칙
+- 자식 클래스는 부모 클래스로 대체 가능해야 한다.
