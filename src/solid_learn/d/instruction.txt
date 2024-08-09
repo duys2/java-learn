@@ -1,0 +1,2 @@
+DIP (Dependency Inversion Principle) - 의존 역전 원칙
+- 고수준 모듈은 저수준 모듈에 의존하면 안 되며, '추상화에 의존'해야 한다.
